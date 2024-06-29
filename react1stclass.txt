@@ -1,0 +1,24 @@
+REACT INTRODUCTION
+
+REACT JS (JS library)
+
+1) Real DOM
+2) Virtual DOM
+
+Node Package Manager => (NPM)
+Create-React-APP => (CRA)
+Single Page Application => (SPA)
+
+how to creat React Project :-
+
+1) search google ( vite react )
+
+node module k naam se ek folder hota he 
+w
+*) Make a folder any name.
+*) open cmd and run (npm vite command jo vite react se mile gi)
+
+call to component
+<heading/>
+
+component or function me bs ek difference he component ka first letter capital hota he or function ka small hota he
